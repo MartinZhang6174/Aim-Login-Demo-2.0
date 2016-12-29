@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/martinzhang/Desktop/iOS Development /Aim! Login Demo 2.0/Build/Products/Debug-iphonesimulator/Pods_Aim__Login_Demo_2_0.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Aim! Login Demo 2.0-umbrella.h",
+          'external-contents': "/Users/martinzhang/Desktop/iOS Development /Aim! Login Demo 2.0/Pods/Target Support Files/Pods-Aim! Login Demo 2.0/Pods-Aim! Login Demo 2.0-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Aim__Login_Demo_2_0-Swift.h",
+          'external-contents': "/Users/martinzhang/Desktop/iOS Development /Aim! Login Demo 2.0/Build/Products/Debug-iphonesimulator/Pods_Aim__Login_Demo_2_0.framework/Headers/Pods_Aim__Login_Demo_2_0-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/martinzhang/Desktop/iOS Development /Aim! Login Demo 2.0/Build/Products/Debug-iphonesimulator/Pods_Aim__Login_Demo_2_0.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/martinzhang/Desktop/iOS Development /Aim! Login Demo 2.0/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Aim! Login Demo 2.0.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
